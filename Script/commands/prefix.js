@@ -26,7 +26,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     const BOTPREFIX = global.config.PREFIX || "!";
     const GROUPPREFIX = global.data.threadData?.[threadID]?.prefix || BOTPREFIX;
 
-    const BOTNAME = global.config.BOTNAME || "ʀx ᴄʜᴀᴛ ʙᴏᴛ";
+    const BOTNAME = global.config.BOTNAME || " 🆃🅰🅼🅸🅼​🇧​​🇧​​🇿​";
 
     const msg =
 `◇───✦ 𝗣𝗥𝗘𝗙𝗜𝗫 𝗦𝗧𝗔𝗧𝗨𝗦 ✦───◇
